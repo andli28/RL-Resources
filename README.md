@@ -18,8 +18,9 @@ Useful resources relating to Reinforcement Learning
 ## Courses
 - [`Hugging Face Deep-RL`](https://huggingface.co/deep-rl-course/unit0/introduction): Course on Deep-RL
 - [`Stanford CS234`](https://web.stanford.edu/class/cs234/modules.html): Stanford course on RL
+- [`Berkeley Deep-RL`](https://rail.eecs.berkeley.edu/deeprlcourse/): Berkeley course on RL
 - [`Kaggle`](https://www.kaggle.com/learn): Quick courses on a variety of data science and ML topics
-- [`OpenAI Spinning Up`](https://spinningup.openai.com/en/latest/user/introduction.html): Educational resource produced by OpenAI that makes it easier to learn about deep RL
+- [`OpenAI Spinning Up`](https://spinningup.openai.com/en/latest/user/introduction.html): Educational resource produced by OpenAI that makes it easier to learn about Deep-RL
 
 ## Algorithm Papers
 - **(ICML'15)**: Trust Region Policy Optimization (TRPO) [`PDF`](https://arxiv.org/abs/1502.05477)
