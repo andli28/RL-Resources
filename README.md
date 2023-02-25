@@ -8,6 +8,7 @@ Useful resources relating to Reinforcement Learning
   - [Courses](#courses)
   - [Algorithm papers](#algorithm-papers)
   - [Competitions](#competitions)
+  - [Other Lists](#other-lists)
 
 ## Blogs
 - [`OpenAI PPO Baselines`](https://openai.com/blog/openai-baselines-ppo/): Provides short explanation of PPO, with baselines of PPO, PPO2, ACER, and TRPO.
@@ -24,3 +25,6 @@ Useful resources relating to Reinforcement Learning
 
 ## Competitions
 - [`Lux AI`](https://www.lux-ai.org/): Multi-agent RL, unit navigation, resource gathering, macro and micro strategies, multi-variable optimization, resource gathering , and allocation problem
+
+## Other Lists
+ - [`MSAIL`](https://msail.github.io/resources/): Michigan Student Artificial Intelligence Lab 
