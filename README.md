@@ -17,6 +17,7 @@ Useful resources relating to Reinforcement Learning
 ## Courses
 - [`Hugging Face Deep-RL`](https://huggingface.co/deep-rl-course/unit0/introduction): Course on Deep-RL
 - [`Stanford CS234`](https://web.stanford.edu/class/cs234/modules.html): Stanford course on RL
+- [`Kaggle`] (https://www.kaggle.com/learn): Quick courses on a variety of data science and ML topics
 
 ## Algorithm Papers
 - **(ICML'15)**: Trust Region Policy Optimization (TRPO) [`PDF`](https://arxiv.org/abs/1502.05477)
