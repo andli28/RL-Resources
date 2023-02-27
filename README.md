@@ -6,7 +6,7 @@ Useful resources relating to Reinforcement Learning
   - [Table of Contents](#table-of-contents)
   - [Blogs](#blogs)
   - [Courses](#courses)
-  - [Algorithm papers](#algorithm-papers)
+  - [Algorithm Papers or Applications](#algorithm-papers-or-applications)
   - [Competitions](#competitions)
   - [Other Lists](#other-lists)
 
@@ -24,10 +24,11 @@ Useful resources relating to Reinforcement Learning
 - [`UCLxDavid-Silver RL`](https://www.davidsilver.uk/teaching/): David Silver teaches RL at UCL in 2015
 - [`DeepMind YT Playlist`](https://www.youtube.com/@DeepMind/playlists?view=50&sort=dd&shelf_id=10): A series of lectures by DeepMind
 
-## Algorithm Papers
+## Algorithm Papers or Applications
 - **(ICML'15)**: Trust Region Policy Optimization (TRPO) [`PDF`](https://arxiv.org/abs/1502.05477)
 - Solving Large Imperfect Information Games Using (CFR+) [`PDF`](https://arxiv.org/abs/1407.5042)
 - Pluribus: Superhuman AI for multiplayer poker [`PDF`](https://www.cs.cmu.edu/~noamb/papers/19-Science-Superhuman.pdf) [`Meta AI Blog`](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/)
+- AlphaStar: Mastering the real-time strategy game StarCraft II [`Deepmind Blog`](https://www.deepmind.com/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii)
 
 ## Competitions
 - [`Lux AI`](https://www.lux-ai.org/): Multi-agent RL, unit navigation, resource gathering, macro and micro strategies, multi-variable optimization, resource gathering , and allocation problem
