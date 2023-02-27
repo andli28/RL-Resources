@@ -22,6 +22,7 @@ Useful resources relating to Reinforcement Learning
 - [`Kaggle`](https://www.kaggle.com/learn): Quick courses on a variety of data science and ML topics
 - [`OpenAI Spinning Up`](https://spinningup.openai.com/en/latest/user/introduction.html): Educational resource produced by OpenAI that makes it easier to learn about Deep-RL
 - [`UCLxDavid-Silver RL`](https://www.davidsilver.uk/teaching/): David Silver teaches RL at UCL in 2015
+- [`DeepMind YT Playlist`](https://www.youtube.com/@DeepMind/playlists?view=50&sort=dd&shelf_id=10): A series of lectures by DeepMind
 
 ## Algorithm Papers
 - **(ICML'15)**: Trust Region Policy Optimization (TRPO) [`PDF`](https://arxiv.org/abs/1502.05477)
