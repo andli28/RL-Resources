@@ -27,6 +27,7 @@ Useful resources relating to Reinforcement Learning
 ## Algorithm Papers
 - **(ICML'15)**: Trust Region Policy Optimization (TRPO) [`PDF`](https://arxiv.org/abs/1502.05477)
 - Solving Large Imperfect Information Games Using (CFR+) [`PDF`](https://arxiv.org/abs/1407.5042)
+- Pluribus: Superhuman AI for multiplayer poker [`PDF`](https://www.cs.cmu.edu/~noamb/papers/19-Science-Superhuman.pdf) [`Meta AI Blog`](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/)
 
 ## Competitions
 - [`Lux AI`](https://www.lux-ai.org/): Multi-agent RL, unit navigation, resource gathering, macro and micro strategies, multi-variable optimization, resource gathering , and allocation problem
