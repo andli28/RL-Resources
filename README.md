@@ -11,6 +11,7 @@ Useful resources relating to Reinforcement Learning
   - [Other Lists](#other-lists)
 
 ## Blogs
+- [`Pathmind AI Wiki`](https://wiki.pathmind.com/deep-reinforcement-learning): A Beginner's Guide to Deep Reinforcement Learning
 - [`OpenAI PPO Baselines`](https://openai.com/blog/openai-baselines-ppo/): Provides short explanation of PPO, with baselines of PPO, PPO2, ACER, and TRPO.
 - [`Kaparthy RL`](https://karpathy.github.io/2016/05/31/rl/): Andrej Kaparthy's Thoughts on RL
 - [`Lil'Log`](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/) Lilian Weng's Policy Gradient Algorithms
