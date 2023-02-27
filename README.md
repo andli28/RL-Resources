@@ -27,6 +27,7 @@ Useful resources relating to Reinforcement Learning
 ## Algorithm Papers or Applications
 - **(ICML'15)**: Trust Region Policy Optimization (TRPO) [`PDF`](https://arxiv.org/abs/1502.05477)
 - Solving Large Imperfect Information Games Using (CFR+) [`PDF`](https://arxiv.org/abs/1407.5042)
+- MCCFR: Monte Carlo Sampling for Regret Minimization in Extensive Games [`PDF`](https://papers.nips.cc/paper/2009/file/00411460f7c92d2124a67ea0f4cb5f85-Paper.pdf)
 - Pluribus: Superhuman AI for multiplayer poker [`PDF`](https://www.cs.cmu.edu/~noamb/papers/19-Science-Superhuman.pdf) [`Meta AI Blog`](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/)
 - AlphaStar: Mastering the real-time strategy game StarCraft II [`Deepmind Blog`](https://www.deepmind.com/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii)
 
