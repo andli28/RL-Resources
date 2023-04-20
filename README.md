@@ -32,6 +32,7 @@ Useful resources relating to Reinforcement Learning
 - Pluribus: Superhuman AI for multiplayer poker [`PDF`](https://www.cs.cmu.edu/~noamb/papers/19-Science-Superhuman.pdf) [`Meta AI Blog`](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/)
 - ReBeL: Combining Deep Reinforcement Learning and Search for Imperfect-Information Games [`arXiv`](https://arxiv.org/pdf/2007.13544) [`Github`](https://github.com/facebookresearch/rebel)
 - AlphaStar: Mastering the real-time strategy game StarCraft II [`Deepmind Blog`](https://www.deepmind.com/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii)
+- Negotiation and honesty in artificial intelligence methods for the board game of Diplomacy [`Nature`](https://www.nature.com/articles/s41467-022-34473-5)
 
 ## Competitions
 - [`Lux AI`](https://www.lux-ai.org/): Multi-agent RL, unit navigation, resource gathering, macro and micro strategies, multi-variable optimization, resource gathering , and allocation problem
