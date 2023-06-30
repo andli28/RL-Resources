@@ -16,7 +16,8 @@ Useful resources relating to Reinforcement Learning
 - [`Kaparthy RL`](https://karpathy.github.io/2016/05/31/rl/): Andrej Kaparthy's Thoughts on RL
 - [`Lil'Log`](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/) Lilian Weng's Policy Gradient Algorithms
 - [`Hugging Face`](https://huggingface.co/blog/rlhf) Illustrating Reinforcement Learning from Human Feedback (RLHF)
-- [`Hugging Face`](https://huggingface.co/blog/decision-transformers)  Introducing Decision Transformers on Hugging Face 🤗 
+- [`Hugging Face`](https://huggingface.co/blog/decision-transformers)  Introducing Decision Transformers on Hugging Face 🤗
+- [`Deepmind`](https://www.deepmind.com/blog/optimising-computer-systems-with-more-generalised-ai-tools) Optimising computer systems with more generalised AI tools
 
 ## Courses
 - [`Hugging Face Deep-RL`](https://huggingface.co/deep-rl-course/unit0/introduction): Course on Deep-RL
