@@ -36,7 +36,7 @@ Useful resources relating to Reinforcement Learning
 - ReBeL: Combining Deep Reinforcement Learning and Search for Imperfect-Information Games [`arXiv`](https://arxiv.org/pdf/2007.13544) [`Github`](https://github.com/facebookresearch/rebel)
 - AlphaStar: Mastering the real-time strategy game StarCraft II [`Deepmind Blog`](https://www.deepmind.com/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii)
 - Negotiation and honesty in artificial intelligence methods for the board game of Diplomacy [`Deepmind Blog`](https://www.deepmind.com/blog/ai-for-the-board-game-diplomacy) [`Nature`](https://www.nature.com/articles/s41467-022-34473-5)
-- Mastering Stratego, the classic game of imperfect information [`Deepmind Blog`](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information) [`Science`](https://www.science.org/stoken/author-tokens/ST-887/full) [`Github`](https://github.com/deepmind/open_spiel/tree/master/open_spiel/python/algorithms/rnad)
+- Mastering Stratego, the classic game of imperfect information [`Deepmind Blog`](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information) [`DeepNash Paper`](https://arxiv.org/pdf/2206.15378.pdf) [`Science Article`](https://www.science.org/stoken/author-tokens/ST-887/full) [`DeepNash Code`](https://github.com/deepmind/open_spiel/tree/master/open_spiel/python/algorithms/rnad)
 
 ## Competitions
 - [`Lux AI`](https://www.lux-ai.org/): Multi-agent RL, unit navigation, resource gathering, macro and micro strategies, multi-variable optimization, resource gathering , and allocation problem
